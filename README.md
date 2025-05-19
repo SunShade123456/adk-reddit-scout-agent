@@ -4,14 +4,14 @@ This project demonstrates simple agents built using the Google Agent Development
 
 ## Agents
 
-- **Reddit Scout**: Simulates fetching recent discussion titles from ai development subreddits.
+- **Reddit Scout**: Simulates fetching recent discussion titles from AI development subreddits.
 
 ## General Setup
 
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/adk-made-simple
+    git clone https://github.com/SunShade123456/adk-reddit-scout-agent.git
     cd adk-made-simple
     ```
 
